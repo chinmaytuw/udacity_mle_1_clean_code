@@ -17,7 +17,7 @@ The directory is set up in the following structure:
 ├── churn_script_logging_and_tests.py 	# Testing and logging script
 ├── README.md            
 ├── data                 
-│   └── bank_data.csv	# data
+│   └── bank_data.csv
 ├── images                
 │   ├── eda 				# EDA results
 │   └── results 			# classification results
