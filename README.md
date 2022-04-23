@@ -10,6 +10,7 @@ This entails following coding (PEP8) and engineering best practices for implemen
 
 ## Files and data description
 The directory is set up in the following structure:
+
 .
 ├── Guide.ipynb          		# Getting started and troubleshooting tips
 ├── churn_notebook.ipynb 		# Contains the code to be refactored
