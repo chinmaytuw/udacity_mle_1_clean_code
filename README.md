@@ -11,20 +11,20 @@ This entails following coding (PEP8) and engineering best practices for implemen
 ## Files and data description
 The directory is set up in the following structure:
 .
-├── Guide.ipynb          # Getting started and troubleshooting tips
-├── churn_notebook.ipynb # Contains the code to be refactored
-├── churn_library.py     # Master functions to run import, perfrom eda, train models, report 
-├── churn_script_logging_and_tests.py # Testing and logging script
+├── Guide.ipynb          		# Getting started and troubleshooting tips
+├── churn_notebook.ipynb 		# Contains the code to be refactored
+├── churn_library.py     		# Master functions to run import, perfrom eda, train models, report 
+├── churn_script_logging_and_tests.py 	# Testing and logging script
 ├── README.md            
 ├── data                 
 │   └── bank_data.csv	# data
 ├── images                
-│   ├── eda 			# EDA results
-│   └── results 		# classification results
+│   ├── eda 				# EDA results
+│   └── results 			# classification results
 ├── logs                 
-	├── churn_library.log 	# logs
+	├── churn_library.log 		# logs
 └── models               	
-	├── logistic_model.pkl 	# Logistic regression model pkl
+	├── logistic_model.pkl 		# Logistic regression model pkl
 	├── rf_model.pkl 		# RandomForest  model pkl
 
 
