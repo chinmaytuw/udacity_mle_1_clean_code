@@ -1,0 +1,20 @@
+root - INFO - SUCCESS: Testing import_data
+root - INFO - SUCCESS: DF shape checks out
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - SUCCESS: churn_histogram found
+root - INFO - SUCCESS: customer_age_histogram found
+root - INFO - SUCCESS: marital_status found
+root - INFO - SUCCESS: total_transaction_kde found
+root - INFO - SUCCESS: heatmap found
+root - INFO - SUCCESS Scenario 1: Dataframe encoded with cat_columns
+root - INFO - SUCCESS Scenario 2: Dataframe encoded with []
+root - INFO - SUCCESS Scenario 3: Dataframe encoded with cat_columns and respose: _test
+root - INFO - SUCCESS: able to perform train test split
+root - INFO - SUCCESS: able to perform train test split
+root - INFO - SUCCESS: Models trained, RandomForest model found
+root - INFO - SUCCESS: Models trained, LogisticRegression  model found
+root - INFO - SUCCESS: ROC Curve found
+root - INFO - SUCCESS: ROC Curve found
+root - INFO - SUCCESS: RandomForest results found
+root - INFO - SUCCESS: LogisticRegression results found
+root - INFO - SUCCESS: feature_importances found
